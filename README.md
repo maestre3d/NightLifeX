@@ -16,7 +16,7 @@
 - Desktop responsive App.
 - Included ManageOS*.
   
-  -*ManageOS is a software made for stablisment's manager/owner.*
+  > -*ManageOS is a software made for stablisment's manager/owner.*
 
 ###Requirements
 
